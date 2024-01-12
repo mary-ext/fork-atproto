@@ -1,5 +1,14 @@
 # @atproto/bsky
 
+## 0.0.23
+
+### Patch Changes
+
+- [#1988](https://github.com/bluesky-social/atproto/pull/1988) [`51fcba7a`](https://github.com/bluesky-social/atproto/commit/51fcba7a7945c604fc50e9545850a12ef0ee6da6) Thanks [@bnewbold](https://github.com/bnewbold)! - remove deprecated app.bsky.unspecced.getPopular endpoint
+
+- Updated dependencies [[`51fcba7a`](https://github.com/bluesky-social/atproto/commit/51fcba7a7945c604fc50e9545850a12ef0ee6da6)]:
+  - @atproto/api@0.8.1
+
 ## 0.0.22
 
 ### Patch Changes
